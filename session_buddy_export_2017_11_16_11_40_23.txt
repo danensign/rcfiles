@@ -1,0 +1,331 @@
+﻿Window 1
+
+   How to Spot a Machine Learning Opportunity, Even If You Aren’t a Data Scientist
+   https://hbr.org/2017/10/how-to-spot-a-machine-learning-opportunity-even-if-you-arent-a-data-scientist?imm_mid=0f7a0a&cmp=em-data-na-na-newsltr_20171101
+
+   Tech Giants Are Paying Huge Salaries for Scarce A.I. Talent - The New York Times
+   https://www.nytimes.com/2017/10/22/technology/artificial-intelligence-experts-salaries.html?imm_mid=0f7a0a&cmp=em-data-na-na-newsltr_20171101
+
+   quill-spark: A type-safe Scala API for Spark SQL – Flavio Brasil – Medium
+   https://medium.com/@fwbrasil/quill-spark-a-type-safe-scala-api-for-spark-sql-2672e8582b0d
+
+   GitHub - jrudolph/sbt-dependency-graph: sbt plugin to create a dependency graph for your project
+   https://github.com/jrudolph/sbt-dependency-graph
+
+   scala-style-guide.pdf
+   http://www.codecommit.com/scala-style-guide.pdf
+
+   java - The case against checked exceptions - Stack Overflow
+   https://stackoverflow.com/questions/613954/the-case-against-checked-exceptions
+
+   Creating and deploying features with the prototype
+   https://comcast.app.box.com/notes/247722514059
+
+   Map, map and flatMap in Scala - Michael Brunton-Spall
+   http://www.brunton-spall.co.uk/post/2011/12/02/map-map-and-flatmap-in-scala/
+
+   Scaling Machine Learning To Billions Of Parameters
+   https://www.slideshare.net/JenAman/scaling-machine-learning-to-billions-of-parameters
+
+   densig249/featuredemo
+   https://github.comcast.com/densig249/featuredemo
+
+   git - Cannot push to GitHub - keeps saying need merge - Stack Overflow
+   https://stackoverflow.com/questions/10298291/cannot-push-to-github-keeps-saying-need-merge
+
+   Denver Nuggets: The changing of the guard - Denver Stiffs
+   https://www.denverstiffs.com/2017/11/16/16664520/denver-nuggets-changing-of-the-guard-gary-harris-jamal-murray-emmanuel-mudiay-will-barton-malone
+
+   Zach Lowe on Nikola Jokic, Jamal Murray and the Denver Nuggets - NBA
+   http://www.espn.com/nba/story/_/id/21424481/zach-lowe-nikola-jokic-jamal-murray-denver-nuggets-nba
+
+   Nemanja - Google Search
+   https://www.google.com/search?q=Nemanja&oq=Nemanja&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+   How Jusuf Nurkic and the Portland Trail Blazers exposed a weakness in Denver’s half court offense - Denver Stiffs
+   https://www.denverstiffs.com/2017/11/14/16648160/how-jusuf-nurkic-and-the-portland-trail-blazers-exposed-a-weakness-in-denvers-half-court-offense
+
+   danensign/rcfiles
+   https://github.com/danensign/rcfiles
+
+Window 2
+
+   16-131.pdf
+   http://www.jmlr.org/papers/volume18/16-131/16-131.pdf
+
+   Bayesian Model Choice in Cumulative Link Ordinal Regression Models
+   https://arxiv.org/pdf/1503.07642.pdf
+
+   1001.2055.pdf
+   https://arxiv.org/pdf/1001.2055.pdf
+
+   1612.00775.pdf
+   https://arxiv.org/pdf/1612.00775.pdf
+
+   cardoso07a.pdf
+   http://www.jmlr.org/papers/volume8/cardoso07a/cardoso07a.pdf
+
+   prao201/tensorflowBabySteps
+   https://github.comcast.com/prao201/tensorflowBabySteps
+
+   chu05a.dvi
+   http://www.jmlr.org/papers/volume6/chu05a/chu05a.pdf
+
+   A multi-cloud strategy is the foundation for digital transformation - O'Reilly Media
+   https://www.oreilly.com/ideas/a-multi-cloud-strategy-is-the-foundation-for-digital-transformation?imm_mid=0f57e6&cmp=em-data-na-na-newsltr_20170816
+
+   Integrating data with AI - O'Reilly Media
+   https://www.oreilly.com/ideas/integrating-data-with-ai?imm_mid=0f57e6&cmp=em-data-na-na-newsltr_20170816
+
+   Estimating the reproducibility of psychological science | Science
+   http://science.sciencemag.org/content/349/6251/aac4716
+
+   Time series classification with Tensorflow – burakhimmetoglu
+   https://burakhimmetoglu.com/2017/08/22/time-series-classification-with-tensorflow/
+
+   Encoding Time Series as Images for Visual Inspection and Classification Using Tiled Convolutional Neural Networks
+   https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/viewFile/10179/10251
+
+   Data Management Challenges in Production Machine Learning
+   https://research.google.com/pubs/pub46178.html
+
+   A neural network approach to ordinal regression - IEEE Conference Publication
+   http://ieeexplore.ieee.org/abstract/document/4633963/?reload=true
+
+   The current state of applied data science - O'Reilly Media
+   https://www.oreilly.com/ideas/the-current-state-of-applied-data-science?imm_mid=0f5b3c&cmp=em-data-na-na-newsltr_20170830
+
+   Three enablers for machine learning in data unification: Trust, legacy, and scale - O'Reilly Media
+   https://www.oreilly.com/ideas/three-enablers-for-machine-learning-in-data-unification-trust-legacy-and-scale?imm_mid=0f5b3c&cmp=em-data-na-na-newsltr_20170830
+
+   Explained Simply: How DeepMind taught AI to play video games
+   https://medium.freecodecamp.org/explained-simply-how-deepmind-taught-ai-to-play-video-games-9eb5f38c89ee?imm_mid=0f5b3c&cmp=em-data-na-na-newsltr_20170830
+
+   How to build an image recognizer in R using just a few images (Revolutions)
+   http://blog.revolutionanalytics.com/2017/08/image-featurizer.html?imm_mid=0f5b3c&cmp=em-data-na-na-newsltr_20170830
+
+   LNCS 8485 - Time Series Classification Using Multi-Channels Deep Convolutional Neural Networks
+   https://pdfs.semanticscholar.org/b94c/cb595375bf57617575454b418fc6371b1d7c.pdf
+
+   1610.04963.pdf
+   https://arxiv.org/pdf/1610.04963.pdf
+
+   Object detection: an overview in the age of Deep Learning - Tryolabs Blog
+   https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/?imm_mid=0f5ddc&cmp=em-data-na-na-newsltr_20170906
+
+   Reinforcement learning - Wikipedia
+   https://en.wikipedia.org/wiki/Reinforcement_learning
+
+   Markov decision process - Wikipedia
+   https://en.wikipedia.org/wiki/Markov_decision_process
+
+   Facebook and Microsoft introduce new open ecosystem for interchangeable AI frameworks – Facebook Research
+   https://research.fb.com/facebook-and-microsoft-introduce-new-open-ecosystem-for-interchangeable-ai-frameworks/
+
+   Introducing Pytorch for fast.ai · fast.ai
+   http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/
+
+   ICDE14_conf_full_205.pdf
+   https://people.eecs.berkeley.edu/~palvaro/ICDE14_conf_full_205.pdf
+
+Window 3
+
+   Meet Michelangelo: Uber's Machine Learning Platform
+   https://eng.uber.com/michelangelo/
+
+   How to create a Neural Network in JavaScript in only 30 lines of code
+   https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49
+
+   A "Best of the Best Practices" (BOBP) guide to developing in Python. · GitHub
+   https://gist.github.com/sloria/7001839
+
+   Structuring Your Project — The Hitchhiker's Guide to Python
+   http://docs.python-guide.org/en/latest/writing/structure/
+
+   Hot data meets big data to make real-time, real-world decisions - O'Reilly Media
+   https://www.oreilly.com/ideas/hot-data-meets-big-data-to-make-real-time-real-world-decisions?imm_mid=0f60a1&cmp=em-data-na-na-newsltr_20170913
+
+   Integrating convolutional neural networks into enterprise applications - O'Reilly Media
+   https://www.oreilly.com/ideas/integrating-convolutional-neural-networks-into-enterprise-applications?imm_mid=0f60a1&cmp=em-data-na-na-newsltr_20170913
+
+   Solving real-world business problems with computer vision - O'Reilly Media
+   https://www.oreilly.com/ideas/solving-real-world-business-problems-with-computer-vision?imm_mid=0f60a1&cmp=em-data-na-na-newsltr_20170913
+
+   Workbook: Model metadata
+   https://tableau.comcast.com/t/EBI/views/Modelmetadata/ActiveEBIModelMetadata?:iid=1&:isGuestRedirectFromVizportal=y&:embed=y&:usingOldHashUrl=true
+
+   LIME - Local Interpretable Model-Agnostic Explanations – Marco Tulio Ribeiro –
+   https://homes.cs.washington.edu/~marcotcr/blog/lime/
+
+   Uber Devises a Scheduler to Run TensorFlow Deep Learning Jobs Across Multiple GPUs - The New Stack
+   https://thenewstack.io/uber-devises-scheduler-large-deep-learning-jobs/?utm_content=buffer52679&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+   These Robots Can Merge and Split Their Brains to Form New Modular Bots - IEEE Spectrum
+   https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robots-merge-split-brains-form-new-modular-robots
+
+   [1606.01299] RAISR: Rapid and Accurate Image Super Resolution
+   https://arxiv.org/abs/1606.01299
+
+   1709.08568.pdf
+   https://arxiv.org/pdf/1709.08568.pdf
+
+Window 4
+
+   The Product Possibilities of Interpretability
+   http://blog.fastforwardlabs.com/2017/09/28/the-product-possibilities-of-interpretability.html
+
+   Amazon Athena — Serverless Interactive Query Service - AWS
+   https://aws.amazon.com/athena/
+
+   Zeppelin
+   https://zeppelin.apache.org/
+
+   Learning git is not enough: becoming a data scientist after a science PhD
+   https://mike.place/2017/data-science-phd/?imm_mid=0f6b09&cmp=em-data-na-na-newsltr_20170927
+
+   Why is Python Growing So Quickly? - Stack Overflow Blog
+   https://stackoverflow.blog/2017/09/14/python-growing-quickly/?imm_mid=0f6b09&cmp=em-data-na-na-newsltr_20170927
+
+   Domain-specific language - Wikipedia
+   https://en.wikipedia.org/wiki/Domain-specific_language
+
+   adhoc-emr-01p.prd.atl.r53.deap.tv:8890/#/
+   http://adhoc-emr-01p.prd.atl.r53.deap.tv:8890/#/
+
+   kafka stream api tutorial - Google Search
+   https://www.google.com/search?q=kafka+stream+api+tutorial&oq=kafka+stream+api+tuto&gs_l=psy-ab.3.0.33i22i29i30k1.4403.6918.0.7978.11.10.0.0.0.0.647.1183.1j1j0j1j0j1.4.0....0...1.1.64.psy-ab..8.3.1045....0.KB3cIKnPccs
+
+   nihms-577018.pdf
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020183/pdf/nihms-577018.pdf
+
+   Predictive Model Markup Language - Wikipedia
+   https://en.wikipedia.org/wiki/Predictive_Model_Markup_Language
+
+   docs.vespa.ai
+   http://docs.vespa.ai/
+
+Window 5
+
+   Spark SQL DataFrames
+   https://www.tutorialspoint.com/spark_sql/spark_sql_dataframes.htm
+
+   Hadoop Quick Guide
+   https://www.tutorialspoint.com/hadoop/hadoop_quick_guide.htm
+
+   Examples | Apache Spark
+   https://spark.apache.org/examples.html
+
+   Spark SQL and DataFrames - Spark 2.2.0 Documentation
+   https://spark.apache.org/docs/latest/sql-programming-guide.html
+
+   Cluster Mode Overview - Spark 2.2.0 Documentation
+   https://spark.apache.org/docs/latest/cluster-overview.html
+
+   Overview: estimators, transformers and pipelines - spark.ml - Spark 1.6.1 Documentation
+   https://spark.apache.org/docs/1.6.1/ml-guide.html
+
+   localhost
+   http://localhost:8890/notebooks/featurestore-test1.ipynb#
+
+   Install Apache Spark on Ubuntu (step by step guide) - YouTube
+   https://www.youtube.com/watch?v=eQ0nPdfVfc0&list=PLbk_EDDIZpfYHlJ_mnyWFgt1CeTPZXXTD
+
+   Introdução - YouTube
+   https://www.youtube.com/watch?v=DEQNknALf_8&list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-
+
+   A Dirty Dozen: Twelve Common Metric Interpretation Pitfalls in Online Controlled Experiments
+   http://www.kdd.org/kdd2017/papers/view/a-dirty-dozen-twelve-common-metric-interpretation-pitfalls-in-online-contro?imm_mid=0f6e2e&cmp=em-data-na-na-newsltr_20171004
+
+   Got a Minute? Spin up a Spark cluster on your laptop with Docker. | AMPLab – UC Berkeley
+   https://amplab.cs.berkeley.edu/got-a-minute-spin-up-a-spark-cluster-on-your-laptop-with-docker/
+
+   Get Rid of Traditional ETL, Move to Spark! (Bas Geerdink) - YouTube
+   https://www.youtube.com/watch?v=vZhSbs1xLx4
+
+   Tuning - Spark 2.2.0 Documentation
+   https://spark.apache.org/docs/latest/tuning.html
+
+   Spark Streaming - Spark 2.2.0 Documentation
+   https://spark.apache.org/docs/latest/streaming-programming-guide.html
+
+   Lazy Evaluation in Apache Spark – A Quick guide - DataFlair
+   https://data-flair.training/blogs/apache-spark-lazy-evaluation/
+
+   The 5-Minute Guide to Understanding the Significance of Apache Spark | MapR
+   https://mapr.com/blog/5-minute-guide-understanding-significance-apache-spark/
+
+Window 6
+
+   Deep RL Bootcamp - Lectures
+   https://sites.google.com/view/deep-rl-bootcamp/lectures
+
+   Clojure - Wikipedia
+   https://en.wikipedia.org/wiki/Clojure
+
+   GJ: Generic Java
+   https://homepages.inf.ed.ac.uk/wadler/gj/
+
+   What Is AWS Glue? - AWS Glue
+   http://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html
+
+   ConcurrencyandComputation.pdf
+   https://aran.library.nuigalway.ie/bitstream/handle/10379/3988/ConcurrencyandComputation.pdf
+
+   How to Build a Random Forest Classifier Using Data Frames in Spark | Learning Tree Blog
+   http://blog.learningtree.com/how-to-build-a-random-forest-classifier-using-data-frames-in-spark/
+
+   Apache Spark 2.0 Preview: Machine Learning Model Persistence - The Databricks Blog
+   https://databricks.com/blog/2016/05/31/apache-spark-2-0-preview-machine-learning-model-persistence.html
+
+   High Performance Python on Apache Spark
+   https://www.slideshare.net/wesm/high-performance-python-on-apache-spark
+
+   Directed Acyclic Graph DAG in Apache Spark - DataFlair
+   https://data-flair.training/blogs/dag-in-apache-spark/
+
+   teradata platform - Google Search
+   https://www.google.com/search?q=teradata+platform&oq=teradata+platform&aqs=chrome..69i57j0l5.2799j0j7&sourceid=chrome&ie=UTF-8
+
+   EECS-2011-82.pdf
+   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.pdf
+
+   Advanced Apache Spark Training - Sameer Farooqui (Databricks) - YouTube
+   https://www.youtube.com/watch?v=7ooZ4S7Ay6Y
+
+   Attention in Neural Networks and How to Use It
+   http://akosiorek.github.io/ml/2017/10/14/visual-attention.html
+
+   Google’s New AI Is Better at Creating AI Than the Company’s Engineers
+   https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/
+
+Window 7
+
+   Apache-Spark-The-Definitive-Guide-Excerpts-R1.pdf
+   file:///Users/densig249/Downloads/Apache-Spark-The-Definitive-Guide-Excerpts-R1.pdf
+
+   Streaming Dataframes
+   http://matthewrocklin.com/blog/work/2017/10/16/streaming-dataframes-1
+
+   li17a.pdf
+   http://proceedings.mlr.press/v67/li17a/li17a.pdf
+
+   TFX: A TensorFlow-Based Production-Scale Machine Learning Platform
+   file:///Users/densig249/Downloads/TFX-%20A%20TensorFlow-Based%20Production-Scale%20Machine%20Learning%20Platform.pdf
+
+   Apache Airflow (incubating) Documentation — Airflow Documentation
+   https://airflow.apache.org/
+
+   Stochastic gradient descent - Wikipedia
+   https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+
+   Generalized linear model - Wikipedia
+   https://en.wikipedia.org/wiki/Generalized_linear_model
+
+   The myth of using Scala as a better Java - Applied Scala
+   http://appliedscala.com/blog/2017/myth-of-scala-as-better-java/
+
+   binomial - Logistic Regression - Error Term and its Distribution - Cross Validated
+   https://stats.stackexchange.com/questions/124818/logistic-regression-error-term-and-its-distribution
+
+   No order left behind; no shopper left idle. – tech-at-instacart
+   https://tech.instacart.com/no-order-left-behind-no-shopper-left-idle-24ba0600f04f?imm_mid=0f7469&cmp=em-data-na-na-newsltr_20171018
